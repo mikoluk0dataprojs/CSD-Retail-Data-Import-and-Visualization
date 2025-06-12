@@ -1,5 +1,7 @@
 # CSD-Retail-Data-Import-and-Visualization
 
+## Full project in CSD_retail_study.ipynb 
+
 Data Visualization of Census and Statistis Dept (CSD) Retail Sales data on selected category
 - CSD releases retail sales data and CPI data in monthly basis
 - For some product categories, supermarket and department stores are significant retail channels
